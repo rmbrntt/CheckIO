@@ -1,2 +1,2 @@
 # CheckIO
-Project contains solutions to CheckIO.org exercises.
+Project contains solutions to http://CheckIO.org exercises.
